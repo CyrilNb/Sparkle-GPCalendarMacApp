@@ -1,14 +1,19 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>GP Calendar</title>
+        <title>GP Calendar changelog</title>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
         <item>
-            <title>1.4.0</title>
+            <title>Version 1.4.0</title>
             <pubDate>Mon, 24 Apr 2023 00:05:53 +0200</pubDate>
             <sparkle:version>1.4.0</sparkle:version>
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CyrilNb/Sparkle-GPCalendarMacApp/releases/download/v1.4.0/GP.Calendar.1.4.0.dmg" length="2776050" type="application/octet-stream" sparkle:edSignature="4l6bookVmCj2AEzFkskUj0LFgPImAIFVvqM66lWcGhkJiwzpKuULNjERlR5+UyiBtJWjkhSOXbFQ+skP7rofAQ=="/>
+            <description>
+             <![CDATA[ <ul> <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li> <li>Suspendisse sed felis ac ante ultrices rhoncus. Etiam quis elit vel nibh placerat facilisis in id leo.</li> <li>Vestibulum nec tortor odio, nec malesuada libero. Cras vel convallis nunc.</li> <li>Suspendisse tristique massa eget velit consequat tincidunt. Praesent sodales hendrerit pretium.</li> </ul> ]]>
+            </description>
         </item>
     </channel>
 </rss>
