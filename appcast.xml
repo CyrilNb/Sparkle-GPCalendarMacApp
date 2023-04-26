@@ -15,20 +15,11 @@
             <description>
                 <![CDATA[
                     <h1>Version 1.4.0 🚀</h1>
-                    <h2> What's new?</h2>
-                    <body>
-                        <br>
-                        <br>
-                            <b>🥇 Drivers standings</b>
-                        <br>
-                        <br>
-                            <b>🥇 Constructors standings</b>
-                        <br>
-                        <br>
-                            <b>✨ Auto-update the app:</b> the app can now be updated easily! It will ask you to download the new update when a new version is available.
-                        <br>
-                        <br>
-                    </body>
+                        <ul>
+                            <li><h3>🥇 Drivers standings</h3></li>
+                            <li><h3>🥇 Constructors standings</h3></li>
+                            <li><h3>✨ Auto-update the app:</h3> the app can now be updated easily! It will ask you to download the new update when a new version is available.</li>
+                        </ul>
                 ]]>
             </description>
         </item>
