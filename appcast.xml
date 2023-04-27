@@ -5,13 +5,12 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.4.0</title>
-            <pubDate>Mon, 24 Apr 2023 00:05:53 +0200</pubDate>
+            <title>1.4.0</title>
+            <pubDate>Thu, 27 Apr 2023 23:31:11 +0200</pubDate>
             <sparkle:version>1.4.0</sparkle:version>
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <sparkle:criticalUpdate></sparkle:criticalUpdate>
-            <enclosure url="https://github.com/CyrilNb/Sparkle-GPCalendarMacApp/releases/download/v1.4.0/GP.Calendar.1.4.0.dmg" length="2776050" type="application/octet-stream" sparkle:edSignature="4l6bookVmCj2AEzFkskUj0LFgPImAIFVvqM66lWcGhkJiwzpKuULNjERlR5+UyiBtJWjkhSOXbFQ+skP7rofAQ=="/>
+            <enclosure url="https://github.com/CyrilNb/Sparkle-GPCalendarMacApp/releases/download/v1.4.0/GP.Calendar.1.4.0.dmg" length="2831474" type="application/octet-stream" sparkle:edSignature="STb+1Nb2S1UxDvNY0A0OybHyJsqihgNWDfbMEESNqzPc0xos4EMsgyikSjTnx6ABR36waxm2KBi0Y/PmG9JuDw=="/>
             <description>
                 <![CDATA[
                     <h1>Version 1.4.0 🚀</h1>
