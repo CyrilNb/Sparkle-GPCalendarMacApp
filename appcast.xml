@@ -22,5 +22,22 @@
                 ]]>
             </description>
         </item>
+        <item>
+           <title>1.5.0</title>
+           <pubDate>Mon, 26 Feb 2024 17:42:13 +0100</pubDate>
+           <sparkle:version>1.5.0</sparkle:version>
+           <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+           <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+           <enclosure url="https://github.com/CyrilNb/Sparkle-GPCalendarMacApp/releases/download/v1.5.0/GP.Calendar.1.5.0.dmg" length="2879311" type="application/octet-stream" sparkle:edSignature="QmqnMaXZsjj9wAB5OQR4w7P1RspqINbYmEJrTqcm32pxNsxGU+tVpipNeDQoPwElmUizbkpnXfsIuNcs3+dcCw=="/>
+           <description>
+               <![CDATA[
+                   <h1>Version 1.5.0 🚀</h1>
+                       <ul>
+                           <li><h3>📅 2024 calendar is here!</h3></li>
+                           <li><h3>🔔 Notifications 5 mins before a race starts!</h3></li>
+                       </ul>
+               ]]>
+           </description>
+        </item>
     </channel>
 </rss>
