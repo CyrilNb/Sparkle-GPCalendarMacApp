@@ -39,5 +39,20 @@
                ]]>
            </description>
         </item>
+        <item>
+            <title>1.5.1</title>
+            <pubDate>Tue, 05 Mar 2024 19:52:20 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/CyrilNb/Sparkle-GPCalendarMacApp/releases/download/v1.5.1/GP.Calendar.1.5.1.dmg" length="2074221" type="application/octet-stream" sparkle:edSignature="Qe8yESvK+sP5DULdXALXhk9EaDYDqwVV72kkT6D6UuT0yqCZ4Uz83r0hFZ5MxjWEIlNLUwJg1kzc/4PitlRuAg=="/>
+            <description><![CDATA[
+                    <h1>Version 1.5.1 🚀</h1>
+                        <ul>
+                            <li><h3>🔧 Fix drivers standings after first race</h3></li>
+                            <li><h3>🔧 Fix a possible error where a notification can be shown after a GP is done</h3></li>
+                        </ul>
+                ]]></description>
+        </item>
     </channel>
 </rss>
